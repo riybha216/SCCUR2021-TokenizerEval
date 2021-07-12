@@ -1,0 +1,3 @@
+genome1 : "Aaosphaeria arxii" - Eukaryota; Fungi; Ascomycetes
+genome2 : "Abiotrophia defectiva" - Bacteria; Terrabacteria group; Firmicutes
+genome3 : "Abditibacterium utsteinense" - Bacteria; Terrabacteria group; Abditibacteriota
