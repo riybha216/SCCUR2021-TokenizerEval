@@ -1,3 +1,4 @@
+# test comment
 import os
 filename = input("File to format: ")
 os.system("gunzip "+filename)
