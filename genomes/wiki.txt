@@ -1,3 +1,6 @@
 genome1 : "Aaosphaeria arxii" - Eukaryota; Fungi; Ascomycetes
 genome2 : "Abiotrophia defectiva" - Bacteria; Terrabacteria group; Firmicutes
 genome3 : "Abditibacterium utsteinense" - Bacteria; Terrabacteria group; Abditibacteriota
+genome4 : Sars-CoV-2 - Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome
+genome5 : Homo sapiens chromosome 21 open reading frame 91
+genome6 : Tai Forest Ebolavirus (Ivory Cost)
